@@ -5,7 +5,7 @@
 
 ## Description
 
-Ce dépôt contient les fichiers sources, scripts et documents relatifs au projet de reconfiguration dynamique (Dynamic Function eXchange, DFX) sur la carte FPGA Digilent Genesys2. Le projet combine développement matériel sous Vivado, programmation du MicroBlaze via Vitis, et gestion des bitstreams partiels pour une reconfiguration sécurisée et dynamique.
+Ce dépôt contient les fichiers sources, scripts et documents relatifs au projet de reconfiguration dynamique (Dynamic Function eXchange, DFX) sur la carte FPGA Digilent Genesys2. Le projet combine développement matériel sous Vivado, programmation du MicroBlaze via Vitis et gestion des bitstreams partiels pour une reconfiguration sécurisée et dynamique.
 
 ## Contenu
 
@@ -16,8 +16,12 @@ Ce dépôt contient les fichiers sources, scripts et documents relatifs au proje
 
 ## Installation
 
-1. Cloner le dépôt :  git clone https://github.com/toncompte/Genesys2-DFX.git
-2. Installer Vivado Design Suite et Vitis (versions compatibles avec Genesys2).  
+1. Cloner le dépôt :  
+```bash
+    git clone https://github.com/NEOWAK/Genesys2-DFX.git
+ ```
+
+2. Installer Vivado Design Suite et Vitis (versions 2022.2).  
 3. Exécuter le script Tcl situé dans le dossier `scripts/` pour générer la configuration du projet Vivado.  
 4. Compiler et programmer la cible avec Vitis.
 
