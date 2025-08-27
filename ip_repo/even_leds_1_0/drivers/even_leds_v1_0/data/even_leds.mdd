@@ -1,0 +1,10 @@
+
+
+OPTION psf_version = 2.1;
+
+BEGIN DRIVER even_leds
+	OPTION supported_peripherals = (even_leds);
+	OPTION copyfiles = all;
+	OPTION VERSION = 1.0;
+	OPTION NAME = even_leds;
+END DRIVER
