@@ -31,7 +31,7 @@ Ce dépôt contient les fichiers sources, scripts et documents relatifs au proje
 
 ## Usage
 
-- Suivre la vidéo didactique pour le déroulement complet du projet.  
+- Suivre la [![vidéo didactique](https://videos.insa-rennes.fr/media/videos/182befdf628bcb4e3c80701fc4e9c01268c2cd16389dc84be8f951e39a57de18/thumbnail.jpg)](https://videos.insa-rennes.fr/media/videos/182befdf628bcb4e3c80701fc4e9c01268c2cd16389dc84be8f951e39a57de18/video.mp4)  pour le déroulement complet du projet.
 - Modifier les fichiers source selon vos besoins.  
 - Utiliser les scripts fournis pour automatiser la génération des bitstreams.
 
