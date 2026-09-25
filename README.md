@@ -18,7 +18,7 @@ Ce dépôt contient les fichiers sources, scripts et documents relatifs au proje
 
 1. Cloner le dépôt :  
 ```bash
- git clone https://gitlab.insa-rennes.fr/mferrete/genesys2_dfx.git
+ git clone https://github.com/NEOWAK/Genesys2-DFX.git
  ```
 
 2. Installer Vivado Design Suite et Vitis (versions 2022.2).  
